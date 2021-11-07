@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492547010721",
+    "project_id": "e-commerce-bf054",
+    "storage_bucket": "e-commerce-bf054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492547010721:android:dcf3dd3813012665e3c0e0",
+        "android_client_info": {
+          "package_name": "com.esraarashad.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492547010721-pu1h45tg9p52ous79sl3ib0hl1kvoq80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esraarashad.e_commerce_app",
+            "certificate_hash": "15192003ba0179139cba6f12f519cbc2503c579f"
+          }
+        },
+        {
+          "client_id": "492547010721-dgatv7sm2gnntt0io648ktbbr8lg6opp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP832TAZQNoLUUtkLZE5yo7wnecv7Yxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492547010721-dgatv7sm2gnntt0io648ktbbr8lg6opp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
